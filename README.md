@@ -112,12 +112,19 @@ Funciona como portfólio prático sobre metodologia ágil para o Bootcamp DIO + 
 ** Este projeto exemplifica:
 
 ✔ Estruturação clara de backlog;
+
 ✔ Organização por epics, tasks, subtasks e labels;
+
 ✔ Sprints definidas com metas específicas;
+
 ✔ Integração Jira ↔ GitHub com rastreamento direto;
+
 ✔ Documentação contínua;
+
 ✔ Versionamento conectado ao status de desenvolvimento;
+
 ✔ Pipeline de QA com feedback contínuo;
+
 ✔ Comunicação clara entre áreas: Firmware | UI | Sensor | Hardware;
 
 **Tudo isso aplicado como case prático para o Bootcamp DIO + Bradesco.
