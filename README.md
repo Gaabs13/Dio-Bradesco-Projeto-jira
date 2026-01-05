@@ -1,21 +1,22 @@
-🎲 Projeto Demonstração: Sistema Eletrônico de Rolagem de Dados (D3–D100)
+#🎲 Projeto Demonstração: Sistema Eletrônico de Rolagem de Dados (D3–D100)#
 
 Este repositório está associado ao board Scrum no Jira e foi criado como demonstração prática de como estruturo, organizo e conduzo um projeto real utilizando Jira + GitHub, seguindo metodologias ágeis.
 
 Ele faz parte de uma atividade aplicada ao Bootcamp DIO + Bradesco, servindo como referência de boas práticas de documentação, planejamento e execução técnica.
 
-👉 Board no Jira:
+##👉 Board no Jira:##
 https://breezelabstudio.atlassian.net/jira/software/projects/SCRUM/boards/1
 
 Além do propósito demonstrativo, o projeto também representa um estudo conceitual de um dado eletrônico inteligente, com seleção de tipos de dado, animações, sensor de movimento e integração de firmware.
 
-🧭 Objetivo do Repositório
+##🧭 Objetivo do Repositório##
 
-Este repositório cumpre dois propósitos principais:
+Este repositório cumpre **dois propósitos principais:**
 
-1. Demonstração profissional de organização em Jira
+###1. Demonstração profissional de organização em Jira
 
 Mostra como estruturo um fluxo ágil completo:
+
 → criação de epics
 → stories detalhadas
 → sprints organizadas
