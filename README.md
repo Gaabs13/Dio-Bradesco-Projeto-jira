@@ -109,7 +109,7 @@ Funciona como portfólio prático sobre metodologia ágil para o Bootcamp DIO + 
 
 ## 🚀 Como este repositório demonstra a metodologia ágil
 
-** Este projeto exemplifica:
+**Este projeto exemplifica:
 
 ✔ Estruturação clara de backlog;
 
