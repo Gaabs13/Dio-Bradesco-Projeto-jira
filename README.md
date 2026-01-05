@@ -35,7 +35,7 @@ Funciona como portfólio prático sobre metodologia ágil para o Bootcamp DIO + 
 
 📁 Conteúdo Catalogado (Por Fluxos de Trabalho)
 
-**Abaixo está o conjunto de tópicos, tarefas e áreas que servem tanto como documentação do projeto quanto como exemplo de estruturação profissional no Jira.
+**Abaixo está o conjunto de tópicos, tarefas e áreas que servem tanto como documentação do projeto quanto como exemplo de estruturação profissional no Jira.**
 
 ## 🧠 1. Core Logic & Algoritmo
 
@@ -109,7 +109,7 @@ Funciona como portfólio prático sobre metodologia ágil para o Bootcamp DIO + 
 
 ## 🚀 Como este repositório demonstra a metodologia ágil
 
-**Este projeto exemplifica:
+**Este projeto exemplifica:**
 
 ✔ Estruturação clara de backlog;
 
@@ -127,4 +127,4 @@ Funciona como portfólio prático sobre metodologia ágil para o Bootcamp DIO + 
 
 ✔ Comunicação clara entre áreas: Firmware | UI | Sensor | Hardware;
 
-**Tudo isso aplicado como case prático para o Bootcamp DIO + Bradesco.
+**Tudo isso aplicado como case prático para o Bootcamp DIO + Bradesco.**
