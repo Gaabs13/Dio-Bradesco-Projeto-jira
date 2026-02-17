@@ -1,6 +1,6 @@
 # 🎲 Projeto Demonstração: Sistema Eletrônico de Rolagem de Dados (D3–D100)
 
-Este repositório está associado ao board Scrum no Jira e foi criado como demonstração prática de como estruturo, organizo e conduzo um projeto real utilizando Jira + GitHub, seguindo metodologias ágeis.
+Esse repositório está associado ao board Scrum no Jira e foi criado como demonstração prática de como estruturo, organizo e conduzo um projeto real utilizando Jira + GitHub, seguindo metodologias ágeis.
 
 Ele faz parte de uma atividade aplicada ao Bootcamp DIO + Bradesco, servindo como referência de boas práticas de documentação, planejamento e execução técnica.
 
